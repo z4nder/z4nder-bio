@@ -5,7 +5,7 @@
             <span>🔗</span>
         </Heading>
 
-        <div class="grid grid-cols-4 md:grid-cols-5 gap-2">
+        <div class="text-white grid grid-cols-4 md:grid-cols-5 gap-2">
             <Card
                 v-for="link in links"
                 :key="link.label"
@@ -15,7 +15,7 @@
                 class="flex flex-col md:flex-row items-center md:space-x-3 space-y-3 md:space-y-0 rounded-lg px-3 py-3"
             >
                 <div class="flex-none flex items-center justify-center w-8 h-8">
-                    <img :src="link.img" :alt="link.img_alt" />
+                    <font-awesome-icon icon="fa-brands fa-laravel" />
                 </div>
 
                 <div class="text-xs md:text-sm truncate">

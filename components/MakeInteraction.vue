@@ -1,16 +1,10 @@
 <template>
     <div
-        class="container flex flex-col items-center px-5 mx-auto lg:px-20 lg:py-5 py-3 md:flex-row"
+        class="container flex flex-col items-center px-5 mx-auto lg:px-20 lg:pt-20 py-3 md:flex-row"
     >
-        <div class="w-5/6 mb-10 lg:max-w-lg lg:w-full md:w-1/2 md:mb-0">
-            <img
-                class="object-cover object-center rounded"
-                src="@/assets/img/app_development.svg"
-                alt="Computador"
-            >
-        </div>
+       
         <div
-            class="flex flex-col items-center text-center lg:flex-grow md:w-1/2 lg:pl-24 md:pl-16 md:items-start md:text-left"
+            class="flex flex-col items-center text-center lg:flex-grow lg:pl-24 pt-10"
         >
             <h1
                 class="mb-8 text-2xl font-bold tracking-tighter text-center lg:text-left lg:text-5xl title-font text-white"
