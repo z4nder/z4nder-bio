@@ -20,11 +20,11 @@
             </p>
             <div class="flex justify-center">
                 <button
-                    class="flex items-center px-6 py-2 mt-auto font-semibold text-white transition duration-500 ease-in-out transform bg-black rounded-lg hover:bg-gray-900 focus:shadow-outline focus:outline-none focus:ring-2 ring-offset-current ring-offset-2"
+                    class="flex items-center px-6 py-2 mt-auto font-semibold text-white transition duration-500 ease-in-out transform bg-dark-purple-600 rounded-lg hover:bg-dark-purple-700 focus:shadow-outline focus:outline-none focus:ring-2 ring-offset-current ring-offset-2"
                 >
                     <a
                         target="_blank"
-                        href="https://www.sympla.com.br/desenvolvendo-uma-api-rest-com-laravel__1168500"
+                        href="https://github.com/z4nder/z4nder-bio"
                     >Codigo fonte </a>
                 </button>
             </div>
