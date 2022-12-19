@@ -15,7 +15,7 @@
                 class="flex flex-col md:flex-row items-center md:space-x-3 space-y-3 md:space-y-0 rounded-lg px-3 py-3"
             >
                 <div class="flex-none flex items-center justify-center w-8 h-8">
-                    <font-awesome-icon icon="fa-brands fa-laravel" />
+                    <font-awesome-icon :icon="link.icon" class="text-2xl"/>
                 </div>
 
                 <div class="text-xs md:text-sm truncate">
@@ -35,18 +35,14 @@ export default {
             links: [
                 {
                     label: 'GitHub',
-                    img: '/img/github.svg',
-                    img_alt: 'GitHub',
-                    href: 'https://github.com/gusttavodev'
+                    icon: 'fa-brands fa-github',
+                    href: 'https://github.com/z4nder'
                 },
                 {
                     label: 'Instagram',
-                    img: '/img/instagram.svg',
-                    img_alt: 'Instagram @gusttavo212',
-                    href: 'https://www.instagram.com/gusttavo212/'
+                    icon: 'fa-brands fa-instagram',
+                    href: 'https://www.instagram.com/z4nder212/'
                 }
-                // { label: 'Youtube', img: require('@/assets/img/youtube.svg'), img_alt: 'Youtube /tiagomatosweb', href: 'https://www.youtube.com/tiagomatosweb?sub_confirmation=1' },
-                // { label: 'Blog', img: require('@/assets/img/laptop.svg'), img_alt: 'Blog blog.tiagomatos.com', href: 'https://blog.tiagomatos.com/' },
             ]
         }
     },
