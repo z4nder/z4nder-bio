@@ -3,5 +3,10 @@ export default defineNuxtConfig({
     modules: ['@nuxtjs/tailwindcss'],
     css: [
         '@fortawesome/fontawesome-svg-core/styles.css'
-    ]
+    ],
+    app: { 
+        head: { 
+            link: [ {rel: 'icon', type: "image/x-icon", href: '/img/favicon.svg'} ] 
+        } 
+    }
 })
