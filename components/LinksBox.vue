@@ -5,7 +5,7 @@
             <span>🔗</span>
         </Heading>
 
-        <div class="text-white grid grid-cols-4 md:grid-cols-5 gap-2">
+        <div class="text-white grid grid-cols-3 md:grid-cols-5 gap-2">
             <Card
                 v-for="link in links"
                 :key="link.label"
@@ -42,6 +42,21 @@ export default {
                     label: 'Instagram',
                     icon: 'fa-brands fa-instagram',
                     href: 'https://www.instagram.com/z4nder212/'
+                },
+                {
+                    label: 'Twitter',
+                    icon: 'fa-brands fa-twitter',
+                    href: 'https://twitter.com/z4nder212'
+                },
+                {
+                    label: 'Twitch',
+                    icon: 'fa-brands fa-twitch',
+                    href: 'https://www.twitch.tv/z4nder212'
+                },
+                {
+                    label: 'Linkedin',
+                    icon: 'fa-brands fa-linkedin',
+                    href: 'https://www.linkedin.com/in/gustavo-alexandre-052126150/'
                 }
             ]
         }
