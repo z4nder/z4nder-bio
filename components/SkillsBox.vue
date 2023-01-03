@@ -1,7 +1,7 @@
 <template>
     <div>
         <Heading tag="h2">
-            <span>Técnologias</span>
+            <span>Tecnologias</span>
             <span>👨🏻‍💻</span>
         </Heading>
 
