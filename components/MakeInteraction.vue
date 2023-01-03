@@ -16,7 +16,7 @@
             >
                 Essa é minha bio pessoal de código aberto, e sinta-se livre para
                 fazer o uso que desejar desse código, se curtiu interaja comigo
-                nos meus links e vamos movimentar a comunidade
+                nos meus links e vamos movimentar a comunidade.
             </p>
             <div class="flex justify-center">
                 <button
