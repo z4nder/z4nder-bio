@@ -10,6 +10,8 @@
     }
     body {
         @apply h-auto font-light py-10;
+        font-family: 'DM Sans', sans-serif;
+        font-family: 'Nunito', sans-serif;
         background: linear-gradient(
             254.12deg, 
             #230254 0%, 

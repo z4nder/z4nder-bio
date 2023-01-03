@@ -45,10 +45,7 @@ const brand = {
 };
 
 module.exports = {
-    theme: {        
-        fontFamily: {
-            sans: ['Inter'],
-        },
+    theme: {  
         extend: {
             colors: {
                 black: '#000',
