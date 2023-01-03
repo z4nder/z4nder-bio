@@ -5,7 +5,7 @@
             <span>👨🏻‍💻</span>
         </Heading>
 
-        <div class="text-white grid grid-cols-3 md:grid-cols-5 gap-2">
+        <div class="grid grid-cols-3 md:grid-cols-5 gap-2">
             <Card
                 v-for="link in links"
                 :key="link.label"

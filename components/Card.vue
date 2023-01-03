@@ -1,7 +1,7 @@
 <template>
     <Component
         :is="tag"
-        class="card bg-dark-purple-900 border"
+        class="card bg-dark-purple-900 shadow-md shadow-dark-purple-900/200"
         :class="{ 'border-opacity-25': !noBorderOpacity, 'bg-opacity-50': !noBgOpacity }"
     >
         <slot />
@@ -32,6 +32,6 @@
 <style
 >
     .card {
-        border-color: #8d2191;
+        background-color: #afa4fd;
     }
 </style>
