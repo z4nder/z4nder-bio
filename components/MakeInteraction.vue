@@ -30,13 +30,11 @@
                         focus:shadow-outline focus:outline-none focus:ring-2 ring-offset-current ring-offset-2
                     "
                 >
-                <a
-                target="_blank"
-                href="https://discord.gg/fqkC6Eeh"
-                >
                     <font-awesome-icon icon="fa-brands fa-discord" class="py-2 px-2 text-xl"/>
-                        Faça parte
-                    </a>
+                    <a
+                        target="_blank"
+                        href="https://discord.gg/fqkC6Eeh"
+                    >Venha fazer parte</a>
                 </button>
             </div>
         </div>
