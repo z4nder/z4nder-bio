@@ -35,7 +35,7 @@
                         target="_blank"
                         href="https://discord.gg/fqkC6Eeh"
                     >
-                        Venha fazer parte
+                    Faça parte
                     </a>
                 </button>
             </div>
