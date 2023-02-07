@@ -1,12 +1,13 @@
 // For Nuxt 3
 import { library, config } from '@fortawesome/fontawesome-svg-core'
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
-import { faJs, faPhp, faGithub, faInstagram, faLaravel, faVuejs, faRust, faTwitter, faLinkedin, faTwitch } from '@fortawesome/free-brands-svg-icons'
+import { faJs, faPhp, faGithub, faDiscord, faInstagram, faLaravel, faVuejs, faRust, faTwitter, faLinkedin, faTwitch } from '@fortawesome/free-brands-svg-icons'
 
 config.autoAddCss = false
 library.add(
   faGithub, faInstagram, faLaravel, faVuejs, faJs,
-  faRust, faTwitter, faLinkedin, faTwitch, faPhp
+  faRust, faTwitter, faLinkedin, faTwitch, faPhp,
+  faDiscord
 )
 
 export default defineNuxtPlugin((nuxtApp) => {

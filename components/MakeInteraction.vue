@@ -9,14 +9,17 @@
             <h1
                 class="mb-8 text-2xl font-bold tracking-tighter text-center lg:text-left lg:text-5xl title-font"
             >
-                Realizo algumas lives na twitch 👋🏼
+                Z4nders Club 👋🏼             
             </h1>
             <p
-                class="mb-8 text-base leading-relaxed text-center lg:text-left lg:text-1xl"
+                class="mb-8 text-xl leading-relaxed text-justify lg:text-left lg:text-1xl"
             >
-                Essa é minha bio pessoal de código aberto, e sinta-se livre para
-                fazer o uso que desejar desse código, se curtiu interaja comigo
-                nos meus links e vamos movimentar a comunidade.
+                Z4nders Club é um canal do Discord focado em criar um ambiente de aprendizado mútuo.
+                Iremos realizar uma sequência semanal de lives no meu canal da 
+                <a target="_blank" href="https://www.twitch.tv/z4nder212" class="font-bold"> Twitch</a>.
+                Esse projeto vai ter início no dia 
+                <b class="font-bold">21/02/2023</b>, durante esse período serão
+                realizadas 2 lives semanais, na <b class="font-bold">terça e quinta às 20:30h</b>.
             </p>
             <div class="flex justify-center">
                 <button
@@ -27,10 +30,11 @@
                         focus:shadow-outline focus:outline-none focus:ring-2 ring-offset-current ring-offset-2
                     "
                 >
+                    <font-awesome-icon icon="fa-brands fa-discord" class="py-2 px-2 text-xl"/>
                     <a
                         target="_blank"
-                        href="https://github.com/z4nder/z4nder-bio"
-                    >Código fonte </a>
+                        href="https://discord.gg/fqkC6Eeh"
+                    >Venha fazer parte</a>
                 </button>
             </div>
         </div>
