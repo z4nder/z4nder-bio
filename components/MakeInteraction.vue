@@ -21,21 +21,24 @@
                 <b class="font-bold">21/02/2023</b>, durante esse período serão
                 realizadas 2 lives semanais, na <b class="font-bold">terça e quinta às 20:30h</b>.
             </p>
-            <div class="flex justify-center">
-                <button
+            <div class="flex justify-center">              
+                <a
                     class="
-                        flex items-center px-6 py-2 mt-auto font-semibold transition duration-500 
-                        ease-in-out transform 
-                        bg-primary-400 rounded-lg hover:bg-primary-500 
-                        focus:shadow-outline focus:outline-none focus:ring-2 ring-offset-current ring-offset-2
+                    flex items-center px-6 py-2 mt-auto font-semibold 
+                    transition duration-500 
+                    bg-primary-400 rounded-lg hover:bg-primary-500 
+                    focus:shadow-outline focus:outline-none 
+                    focus:ring-2 ring-offset-current 
+                    ring-offset-2
                     "
+                    target="_blank"
+                    href="https://discord.gg/fqkC6Eeh"
                 >
-                    <font-awesome-icon icon="fa-brands fa-discord" class="py-2 px-2 text-xl"/>
-                    <a
-                        target="_blank"
-                        href="https://discord.gg/fqkC6Eeh"
-                    >Venha fazer parte</a>
-                </button>
+                    <span>
+                        <font-awesome-icon icon="fa-brands fa-discord" class="py-2 px-2 text-xl"/>
+                    </span>
+                    <span>Venha fazer parte</span>
+                </a>
             </div>
         </div>
     </div>
