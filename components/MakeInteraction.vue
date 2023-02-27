@@ -32,7 +32,7 @@
                     ring-offset-2
                     "
                     target="_blank"
-                    href="https://discord.gg/f3cKHUWV"
+                    href="https://discord.gg/JspQr3GPve"
                 >
                     <span>
                         <font-awesome-icon icon="fa-brands fa-discord" class="py-2 px-2 text-xl"/>
