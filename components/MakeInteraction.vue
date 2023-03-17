@@ -16,13 +16,6 @@
             >
                 Z4nders Club é um canal do Discord focado em criar um ambiente de aprendizado mútuo.
             </p>
-            <p
-                class="mb-8 text-xl leading-relaxed text-justify lg:text-left lg:text-1xl"
-            >
-                Realizo lives no meu canal da 
-                <a target="_blank" href="https://www.twitch.tv/z4nder212" class="font-bold"> Twitch</a>.
-                <b class="font-bold">terça e quinta às 20:30h</b>.
-            </p>
             <div class="flex justify-center">              
                 <a
                     class="
