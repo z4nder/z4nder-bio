@@ -15,11 +15,9 @@
                 class="mb-8 text-xl leading-relaxed text-justify lg:text-left lg:text-1xl"
             >
                 Z4nders Club é um canal do Discord focado em criar um ambiente de aprendizado mútuo.
-                Iremos realizar uma sequência semanal de lives no meu canal da 
+                Realizo lives no meu canal da 
                 <a target="_blank" href="https://www.twitch.tv/z4nder212" class="font-bold"> Twitch</a>.
-                Esse projeto vai ter início no dia 
-                <b class="font-bold">21/02/2023</b>, durante esse período serão
-                realizadas 2 lives semanais, na <b class="font-bold">terça e quinta às 20:30h</b>.
+                <b class="font-bold">terça e quinta às 20:30h</b>.
             </p>
             <div class="flex justify-center">              
                 <a
